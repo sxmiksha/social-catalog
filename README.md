@@ -1,5 +1,5 @@
 # 🎬 Social Cataloging Service  
-A modern social cataloging platform inspired by **Letterboxd** and **Goodreads**, combining film logging, book tracking, reviews, lists, social discovery, and a signature feature:
+A modern social cataloging platform inspired by **Letterboxd** and **Goodreads**, combining film logging, book tracking, reviews, lists, social discovery, and a signature feature: create aesthetic collages using movie posters and book covers.
 
 ---
 
