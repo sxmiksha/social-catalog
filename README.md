@@ -1,4 +1,4 @@
-# 📚🎬 Social Cataloging Service  
+# 🎬 Social Cataloging Service  
 A modern social cataloging platform inspired by **Letterboxd** and **Goodreads**, combining film logging, book tracking, reviews, lists, social discovery, and a signature feature:
 
 ## ⭐ Create aesthetic collages using movie posters & book covers.
@@ -13,7 +13,7 @@ A modern social cataloging platform inspired by **Letterboxd** and **Goodreads**
 - Rate items and write reviews  
 - Personal notes, dates, and metadata  
 
-### 🧑‍🤝‍🧑 Social  
+### 👥 Social  
 - User profiles & activity feeds  
 - Follow other users  
 - Likes, comments, and interactions  
@@ -37,16 +37,15 @@ A modern social cataloging platform inspired by **Letterboxd** and **Goodreads**
 
 ---
 
-## 🧱 Tech Stack  
+## 🛠️ Tech Stack  
 **Built with JavaScript & its modern ecosystem:**
 
 - **Frontend:** React / Next.js  
 - **Backend:** Node.js + Express  
-- **Database:** PostgreSQL (via Prisma or Knex)  
-- **Auth:** JWT / OAuth  
-- **Storage:** Cloudinary or AWS S3  
-- **Image Processing:** Sharp / Canvas  
-- **Deployment:** Vercel, Netlify, or Docker  
+- **Database:** PostgreSQL (via Prisma)  
+- **Auth:** JWT
+- **Image Processing:** Sharp  
+- **Deployment:** Docker  
 
 ---
 
